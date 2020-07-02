@@ -1,0 +1,472 @@
+# ./run xxx(TestType)
+
+=====Straring=====
+
+Linux Kernel Version xxx System Information xxxs
+Start polling...
+thread 1 xxx
+thread 2 xxx
+thread 2 xxx
+Cipher AES
+
+Direction			xxx
+ThreadNum			xxx
+CipherBuffer		xxx
+ReqTime(KHz)		5283	
+Throughput(Mbps)	xxx
+Max					xxx
+Min					xxx
+AVG					xxx
+----------------
+Register Information
+Register[0]]:xxx
+Register[0]:xxx
+Register[0]:xxx
+
+
+Direction			xxx
+ThreadNum			xxx
+CipherBuffer		xxx
+ReqTime(KHz)		6226	
+Throughput(Mbps)	xxx
+Max					xxx
+Min					xxx
+AVG					xxx
+----------------
+Register Information
+Register[0]]:xxx
+Register[0]:xxx
+Register[0]:xxx
+
+
+Direction			xxx
+ThreadNum			xxx
+CipherBuffer		xxx
+ReqTime(KHz)		5341	
+Throughput(Mbps)	xxx
+Max					xxx
+Min					xxx
+AVG					xxx
+----------------
+Register Information
+Register[0]]:xxx
+Register[0]:xxx
+Register[0]:xxx
+
+
+Direction			xxx
+ThreadNum			xxx
+CipherBuffer		xxx
+ReqTime(KHz)		6468	
+Throughput(Mbps)	xxx
+Max					xxx
+Min					xxx
+AVG					xxx
+----------------
+Register Information
+Register[0]]:xxx
+Register[0]:xxx
+Register[0]:xxx
+
+
+Direction			xxx
+ThreadNum			xxx
+CipherBuffer		xxx
+ReqTime(KHz)		5812	
+Throughput(Mbps)	xxx
+Max					xxx
+Min					xxx
+AVG					xxx
+----------------
+Register Information
+Register[0]:xxx
+Register[0]:xxx
+Register[0]:xxx
+
+Direction			xxx
+ThreadNum			xxx
+CipherBuffer		xxx
+ReqTime(KHz)		5291	
+Throughput(Mbps)	xxx
+Max					xxx
+Min					xxx
+AVG					xxx
+----------------
+Register Information
+Register[0]]:xxx
+Register[0]:xxx
+Register[0]:xxx
+
+
+Direction			xxx
+ThreadNum			xxx
+CipherBuffer		xxx
+ReqTime(KHz)		6572	
+Throughput(Mbps)	xxx
+Max					xxx
+Min					xxx
+AVG					xxx
+----------------
+Register Information
+Register[0]]:xxx
+Register[0]:xxx
+Register[0]:xxx
+
+
+Direction			xxx
+ThreadNum			xxx
+CipherBuffer		xxx
+ReqTime(KHz)		6489	
+Throughput(Mbps)	xxx
+Max					xxx
+Min					xxx
+AVG					xxx
+----------------
+Register Information
+Register[0]]:xxx
+Register[0]:xxx
+Register[0]:xxx
+
+
+Direction			xxx
+ThreadNum			xxx
+CipherBuffer		xxx
+ReqTime(KHz)		5626	
+Throughput(Mbps)	xxx
+Max					xxx
+Min					xxx
+AVG					xxx
+----------------
+Register Information
+Register[0]]:xxx
+Register[0]:xxx
+Register[0]:xxx
+
+
+Direction			xxx
+ThreadNum			xxx
+CipherBuffer		xxx
+ReqTime(KHz)		6072	
+Throughput(Mbps)	xxx
+Max					xxx
+Min					xxx
+AVG					xxx
+----------------
+Register Information
+Register[0]]:xxx
+Register[0]:xxx
+Register[0]:xxx
+
+
+Direction			xxx
+ThreadNum			xxx
+CipherBuffer		xxx
+ReqTime(KHz)		5968	
+Throughput(Mbps)	xxx
+Max					xxx
+Min					xxx
+AVG					xxx
+----------------
+Register Information
+Register[0]]:xxx
+Register[0]:xxx
+Register[0]:xxx
+
+
+Direction			xxx
+ThreadNum			xxx
+CipherBuffer		xxx
+ReqTime(KHz)		5511	
+Throughput(Mbps)	xxx
+Max					xxx
+Min					xxx
+AVG					xxx
+----------------
+Register Information
+Register[0]]:xxx
+Register[0]:xxx
+Register[0]:xxx
+
+
+Direction			xxx
+ThreadNum			xxx
+CipherBuffer		xxx
+ReqTime(KHz)		5041	
+Throughput(Mbps)	xxx
+Max					xxx
+Min					xxx
+AVG					xxx
+----------------
+Register Information
+Register[0]]:xxx
+Register[0]:xxx
+Register[0]:xxx
+
+
+Direction			xxx
+ThreadNum			xxx
+CipherBuffer		xxx
+ReqTime(KHz)		5813	
+Throughput(Mbps)	xxx
+Max					xxx
+Min					xxx
+AVG					xxx
+----------------
+Register Information
+Register[0]]:xxx
+Register[0]:xxx
+Register[0]:xxx
+
+
+Direction			xxx
+ThreadNum			xxx
+CipherBuffer		xxx
+ReqTime(KHz)		6022	
+Throughput(Mbps)	xxx
+Max					xxx
+Min					xxx
+AVG					xxx
+----------------
+Register Information
+Register[0]]:xxx
+Register[0]:xxx
+Register[0]:xxx
+
+
+Direction			xxx
+ThreadNum			xxx
+CipherBuffer		xxx
+ReqTime(KHz)		6452	
+Throughput(Mbps)	xxx
+Max					xxx
+Min					xxx
+AVG					xxx
+----------------
+Register Information
+Register[0]]:xxx
+Register[0]:xxx
+Register[0]:xxx
+
+Direction			xxx
+ThreadNum			xxx
+CipherBuffer		xxx
+ReqTime(KHz)		6074	
+Throughput(Mbps)	xxx
+Max					xxx
+Min					xxx
+AVG					xxx
+----------------
+Register Information
+Register[0]]:xxx
+Register[0]:xxx
+Register[0]:xxx
+
+
+Direction			xxx
+ThreadNum			xxx
+CipherBuffer		xxx
+ReqTime(KHz)		5553	
+Throughput(Mbps)	xxx
+Max					xxx
+Min					xxx
+AVG					xxx
+----------------
+Register Information
+Register[0]]:xxx
+Register[0]:xxx
+Register[0]:xxx
+
+
+Direction			xxx
+ThreadNum			xxx
+CipherBuffer		xxx
+ReqTime(KHz)		5500	
+Throughput(Mbps)	xxx
+Max					xxx
+Min					xxx
+AVG					xxx
+----------------
+Register Information
+Register[0]]:xxx
+Register[0]:xxx
+Register[0]:xxx
+
+
+Direction			xxx
+ThreadNum			xxx
+CipherBuffer		xxx
+ReqTime(KHz)		6308	
+Throughput(Mbps)	xxx
+Max					xxx
+Min					xxx
+AVG					xxx
+----------------
+Register Information
+Register[0]]:xxx
+Register[0]:xxx
+Register[0]:xxx
+
+
+Direction			xxx
+ThreadNum			xxx
+CipherBuffer		xxx
+ReqTime(KHz)		5397	
+Throughput(Mbps)	xxx
+Max					xxx
+Min					xxx
+AVG					xxx
+----------------
+Register Information
+Register[0]]:xxx
+Register[0]:xxx
+Register[0]:xxx
+
+
+Direction			xxx
+ThreadNum			xxx
+CipherBuffer		xxx
+ReqTime(KHz)		5283	
+Throughput(Mbps)	xxx
+Max					xxx
+Min					xxx
+AVG					xxx
+----------------
+Register Information
+Register[0]]:xxx
+Register[0]:xxx
+Register[0]:xxx
+
+
+Direction			xxx
+ThreadNum			xxx
+CipherBuffer		xxx
+ReqTime(KHz)		5715	
+Throughput(Mbps)	xxx
+Max					xxx
+Min					xxx
+AVG					xxx
+----------------
+Register Information
+Register[0]]:xxx
+Register[0]:xxx
+Register[0]:xxx
+
+
+Direction			xxx
+ThreadNum			xxx
+CipherBuffer		xxx
+ReqTime(KHz)		6233	
+Throughput(Mbps)	xxx
+Max					xxx
+Min					xxx
+AVG					xxx
+----------------
+Register Information
+Register[0]]:xxx
+Register[0]:xxx
+Register[0]:xxx
+
+
+Direction			xxx
+ThreadNum			xxx
+CipherBuffer		xxx
+ReqTime(KHz)		6943	
+Throughput(Mbps)	xxx
+Max					xxx
+Min					xxx
+AVG					xxx
+----------------
+Register Information
+Register[0]]:xxx
+Register[0]:xxx
+Register[0]:xxx
+
+
+Direction			xxx
+ThreadNum			xxx
+CipherBuffer		xxx
+ReqTime(KHz)		6375	
+Throughput(Mbps)	xxx
+Max					xxx
+Min					xxx
+AVG					xxx
+----------------
+Register Information
+Register[0]]:xxx
+Register[0]:xxx
+Register[0]:xxx
+
+
+Direction			xxx
+ThreadNum			xxx
+CipherBuffer		xxx
+ReqTime(KHz)		6200	
+Throughput(Mbps)	xxx
+Max					xxx
+Min					xxx
+AVG					xxx
+----------------
+Register Information
+Register[0]]:xxx
+Register[0]:xxx
+Register[0]:xxx
+
+
+Direction			xxx
+ThreadNum			xxx
+CipherBuffer		xxx
+ReqTime(KHz)		5602	
+Throughput(Mbps)	xxx
+Max					xxx
+Min					xxx
+AVG					xxx
+----------------
+Register Information
+Register[0]]:xxx
+Register[0]:xxx
+Register[0]:xxx
+
+
+Direction			xxx
+ThreadNum			xxx
+CipherBuffer		xxx
+ReqTime(KHz)		5360	
+Throughput(Mbps)	xxx
+Max					xxx
+Min					xxx
+AVG					xxx
+----------------
+Register Information
+Register[0]]:xxx
+Register[0]:xxx
+Register[0]:xxx
+
+
+Direction			xxx
+ThreadNum			xxx
+CipherBuffer		xxx
+ReqTime(KHz)		5926	
+Throughput(Mbps)	xxx
+Max					xxx
+Min					xxx
+AVG					xxx
+----------------
+Register Information
+Register[0]]:xxx
+Register[0]:xxx
+Register[0]:xxx
+
+
+Direction			xxx
+ThreadNum			xxx
+CipherBuffer		xxx
+ReqTime(KHz)		6915	
+Throughput(Mbps)	xxx
+Max					xxx
+Min					xxx
+AVG					xxx
+----------------
+Register Information
+Register[0]]:xxx
+Register[0]:xxx
+Register[0]:xxx
